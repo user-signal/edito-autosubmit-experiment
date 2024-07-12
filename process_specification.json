@@ -1,0 +1,21 @@
+{
+  "ProcessId": "quentin-hello",
+  "CustomInput": {
+    "Simulation": {
+      "Datetime": {
+        "EnvironmentVariableName": "MONTH"
+      },
+      "Steps": {
+        "EnvironmentVariableName": "SIMULATION_STEP"
+      }
+    },
+    "HPC": {
+      "Name": {
+        "EnvironmentVariableName": "HPC_NAME"
+      }
+    }
+  },
+  "Contact": "jdoe",
+  "Description": "John Doe's HPC process",
+  "LearnMoreLink": "https://fr.wikipedia.org/wiki/Teju%C3%A7uoca"
+}
